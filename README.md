@@ -8,7 +8,7 @@ hier sind einige Scrennshots des Spiels
 
 <img src="C:\Users\nzeye\OneDrive\Images\Captures d’écran\Screenshot 1.png" alt= />
 
-<img src="C:\Users\nzeye\OneDrive\Images\Captures d’écran\Screenshot 2.png" alt= />"
+<img src="images/Screenshot 2.png" alt= />"
 
 <img src="C:\Users\nzeye\OneDrive\Images\Captures d’écran\Screenshot3.png" alt= />"
 
