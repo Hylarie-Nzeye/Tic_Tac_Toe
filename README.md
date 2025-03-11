@@ -10,7 +10,7 @@ hier sind einige Scrennshots des Spiels
 
 <img src="images/Screenshot 2.png" alt= />"
 
-<img src="images/Screenshot 3.png" alt= />"
+<img src="images/Screenshot3.png" alt= />"
 
 ## Bibliotheken
 
